@@ -22,7 +22,7 @@ Each Jupyter Notebook (`KOH1.ipynb`, `KOH2.ipynb` and `report_notes.ipynb`) refl
 | Notebook | Topic | Highlights |
 |----------|-------|------------|
 | `KOH1.ipynb` | 🟥 Square Grid  | Initial experiments with **square grid** and simple datasets (Hexagon and Cube). |
-| `KOH2.ipynb` | 🛑 Hexagonal Grid | Experiments with **hexagonal grid** and simple datasets (MNIST and Human Activity Recognition Using Smarophones). |
+| `KOH2.ipynb` | 🛑 Hexagonal Grid | Experiments with **hexagonal grid** and complex datasets (MNIST and Human Activity Recognition Using Smarophones). |
 | `report_notes.ipynb` | ⚡ Further Experiments and Evaluations  | Compared **RMSProp** and **Momentum** optimizers |
 
 
