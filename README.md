@@ -41,7 +41,7 @@ Each Jupyter Notebook (`KOH1.ipynb`, `KOH2.ipynb` and `report_notes.ipynb`) refl
 - **`results/`**  
   Placeholder for experiments results.
 
-- **`NNx.ipynb`**  
+- **`KOHx.ipynb`**  
   Examples and experiments.
 
 - **`report_notes.ipynb`**  
